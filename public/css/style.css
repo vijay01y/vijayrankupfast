@@ -1,0 +1,5 @@
+/* Example CSS */
+body { font-family: Arial, sans-serif; }
+header, footer { text-align: center; padding: 10px; background: #f3f3f3; }
+nav ul { list-style-type: none; }
+nav ul li { display: inline; margin-right: 10px; }
